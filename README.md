@@ -41,7 +41,7 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/noor-odat-" target="_blank">
+  <a href="https://www.linkedin.com/in/noor-odat-" target="_blank">
     <img src="https://img.icons8.com/ios-filled/48/0077B5/linkedin.png" alt="LinkedIn" />
   </a>
 </p>
@@ -49,5 +49,6 @@
 ---
 
 > 🌟 *"Keep going, you're closer than you think."*
+
 
 
